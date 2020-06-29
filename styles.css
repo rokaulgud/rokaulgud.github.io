@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #ffffff;
+  font-size: 16px;
+  font-family: monospace, sans-serif, serif;
+}
+
+.header{
+  display: block;
+  width: 900px;
+  padding: 50px 10px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: #e9efff;
+  border-bottom: 2px solid #004a99;
+}
+
+.mainpage{
+  display: block;
+  width: 900px;
+  padding: 50px 10px;
+  margin: 20px auto;
+}
+
+.description{
+  margin: 10px auto;
+  padding: 20px 0px;
+  border-bottom: 1px solid #004a99;
+  text-align: justify;
+}
+.description h2{
+  margin-bottom: 10px;
+}
+.caption{
+  margin: 10px auto;
+  padding: 20px;
+  border: 1px solid blue;
+  text-align: left;
+}
+.table{
+  margin: 10px auto;
+  padding: 0;
+  border-bottom: 1px solid #004a99;
+}
