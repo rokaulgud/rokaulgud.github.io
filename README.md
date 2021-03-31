@@ -1,3 +1,4 @@
 # rokaulgud.github.io
-Site under construction.
-Visit temporary site at [Learners' Space Assignment Site](https://rokaulgud.github.io/180020083_WEB_DEV)
+There's nothing here :')
+
+Try solving this chemical engineering crossword at: [Chem-E-Cross, AZeotropy '21](https://bit.ly/chem-e-cross)
